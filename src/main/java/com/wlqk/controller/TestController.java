@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping("/test")
     public Object test(){
-        return "test---第三次测试";
+        return "linux---第三次测试";
     }
 }
